@@ -1,0 +1,28 @@
+{
+  "name": "trello2jira",
+  "version": "0.0.1",
+  "description": "Convert Trello JSON to a CSV for JIRA import",
+  "main": "trello2jira.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheffieldUni/trello2jira.git"
+  },
+  "keywords": [
+    "csv",
+    "trello",
+    "jira",
+    "json"
+  ],
+  "author": "richbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SheffieldUni/trello2jira/issues"
+  },
+  "homepage": "https://github.com/SheffieldUni/trello2jira#readme",
+  "dependencies": {
+    "csv-write-stream": "^1.0.0"
+  }
+}
